@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Confs on MVP Scholar</title>
-    <link>/conf/</link>
+    <link>https://mvpwiki.github.io/conf/</link>
     <description>Recent content in Confs on MVP Scholar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 19:56:50 +0100</lastBuildDate>
     
-	<atom:link href="/conf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mvpwiki.github.io/conf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference</title>
-      <link>/conf/</link>
+      <link>https://mvpwiki.github.io/conf/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
-      <guid>/conf/</guid>
+      <guid>https://mvpwiki.github.io/conf/</guid>
       <description>Top Conferneces CVPR: IEEE Conference on Computer Vision and Pattern Recognition, IEEE Computer Society TPAMI 주관
 ICCV: International Conference on Computer Vision, IEEE Computer Society TPAMI 주관
 ECCV: European Conference on Computer Vision

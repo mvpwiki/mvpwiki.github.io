@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studies on MVP Scholar</title>
-    <link>/study/</link>
+    <link>https://mvpwiki.github.io/study/</link>
     <description>Recent content in Studies on MVP Scholar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 09 Mar 2016 20:10:46 +0100</lastBuildDate>
     
-	<atom:link href="/study/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mvpwiki.github.io/study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Study</title>
-      <link>/study/</link>
+      <link>https://mvpwiki.github.io/study/</link>
       <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
       
-      <guid>/study/</guid>
+      <guid>https://mvpwiki.github.io/study/</guid>
       <description>Will be Updated
 2018-Winter Reinforcement Learning Study
 2018-1 DeepLearning Study</description>

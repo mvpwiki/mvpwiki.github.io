@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MVP Scholar</title>
-    <link>/</link>
+    <link>https://mvpwiki.github.io/</link>
     <description>Recent content on MVP Scholar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Tue, 08 Mar 2016 21:07:13 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mvpwiki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>/</link>
+      <link>https://mvpwiki.github.io/</link>
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
-      <guid>/</guid>
+      <guid>https://mvpwiki.github.io/</guid>
       <description>MVP Scholar는 연세대학교 영상인식연구실의 Wiki역할을 합니다.
 현재는 Tutorial, Seminar, Conference 및 Study 자료를 공유합니다.
 미래에는 모든 유용한 정보를 공유하는 Site가 될 예정입니다.
@@ -27,19 +27,19 @@
     
     <item>
       <title>Tutorial</title>
-      <link>/tutorial/</link>
+      <link>https://mvpwiki.github.io/tutorial/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
-      <guid>/tutorial/</guid>
+      <guid>https://mvpwiki.github.io/tutorial/</guid>
       <description>http://yonseimvp.github.io/tutorial 이전 예정</description>
     </item>
     
     <item>
       <title>Seminar</title>
-      <link>/seminar/</link>
+      <link>https://mvpwiki.github.io/seminar/</link>
       <pubDate>Wed, 09 Mar 2016 00:11:02 +0100</pubDate>
       
-      <guid>/seminar/</guid>
+      <guid>https://mvpwiki.github.io/seminar/</guid>
       <description> Blar Blar
 18년 1학기 정기 세미나 2주 단위로 진행되며 (시험기간 제외), 최대 2명이 발표합니다.
    일정 발표자 주제     1&amp;frasl;5 금요일 김태오 Class Activation Map and Weakly-Supervised Learning   1&amp;frasl;19 금요일 황상원 Feature Descriptor and Deep Image Homography   2&amp;frasl;9 금요일 김우진 Optical Flow   2&amp;frasl;22 목요일 박성주 TBA   3&amp;frasl;2 금요일 이형민 TBA   3&amp;frasl;16 금요일 이용주 TBA   3&amp;frasl;30 금요일 도진경 TBA   4&amp;frasl;27 금요일 이현성 TBA   5&amp;frasl;11 금요일 조명아 TBA   5&amp;frasl;25 금요일 김우진 TBA    17년 2학기 정기 세미나    일정 발표자 주제     7월 7일 이형민 NLP for Computer Vision   7월 7일 김태오 Deep Learning Trend   7월 7일 김태오 Generative Models (VAE/GAN)   7월 21일 도진경 Image Captioning   7월 21일 박성주 Optical Flow   8월 4일 이주성 Object Detection   8월 4일 정태영 Reinforcement Learning   8월 18일 황상원 Colorization   8월 18일 김태오 GANs for Computer Vision   9월 7일 최재성 Neural Decoding with Deep Learning   9월 7일 손한빈 Superresolution via Deep Learning   9월 15일 이민규 Decoder Matters for Dense Prediction Problems   9월 15일 이준협 Conditional Random Fields   9월 29일 이형민 Data Visualization and t-SNE   9월 29일 박성주 K-means Clustering and GMM   11월 3일 도진경 Facial Expression Recognition using CNN   11월 3일 이주성 Continuous Learning   11월 10일 이경재 Tex- Easier, Better, Faster, Stronger   11월 24일 정태영 Mask R-CNN   11월 24일 손한빈 Attention Mechanism    신입생 세미나    일정 발표자 발표 논문 프로시딩     2018/01/15 이형민 Image Captioning with Semantic Attention 발표 Abstract   2018/01/15 조명아 Unified, Real-Time Object Detection (YOLO v1) 발표 Abstract   2018/01/15 이용주 Deep Image Prior 발표 Abstract   2018/01/15 이현성 Edge-Guided Single Depth Image Super Resolution 발표 Abstract    </description>
@@ -47,10 +47,10 @@
     
     <item>
       <title>Conference</title>
-      <link>/conf/</link>
+      <link>https://mvpwiki.github.io/conf/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
-      <guid>/conf/</guid>
+      <guid>https://mvpwiki.github.io/conf/</guid>
       <description>Top Conferneces CVPR: IEEE Conference on Computer Vision and Pattern Recognition, IEEE Computer Society TPAMI 주관
 ICCV: International Conference on Computer Vision, IEEE Computer Society TPAMI 주관
 ECCV: European Conference on Computer Vision
@@ -62,10 +62,10 @@ ICLR: International Conference on Learning Representations
     
     <item>
       <title>Study</title>
-      <link>/study/</link>
+      <link>https://mvpwiki.github.io/study/</link>
       <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
       
-      <guid>/study/</guid>
+      <guid>https://mvpwiki.github.io/study/</guid>
       <description>Will be Updated
 2018-Winter Reinforcement Learning Study
 2018-1 DeepLearning Study</description>
@@ -73,10 +73,10 @@ ICLR: International Conference on Learning Representations
     
     <item>
       <title>Feature Descriptor and Deep Image Homography</title>
-      <link>/seminar/post/hwang18_1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/hwang18_1/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/hwang18_1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/hwang18_1/</guid>
       <description>발표자: 황상원 [발표 자료]
 Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어졌을 때 이미들 사이의 변환 관계 식을 의미합니다.
 본 세미나에서는 Homography의 개념을 이해하고, Feature Descriptor를 이용한 Traditional Homography Estimator와 비교적 간단한 Deep Network 구조를 사용한 HomographyNet과의 성능 비교를 통해 딥러닝의 위대함을 느껴보는 것이 목표입니다.
@@ -86,10 +86,10 @@ Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어
     
     <item>
       <title>Class Activation Map and Weakly Supervised Learning</title>
-      <link>/seminar/post/teo18_1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teo18_1/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teo18_1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teo18_1/</guid>
       <description>발표자: 김태오 [발표 자료]
 해석 가능한 Deep Network 또는 Deep Network Visualization등에 대한 연구가 진행되어 왔습니다. 이번에 소개드릴 CAM (Class Activation Map)은 이것에 대한 간단한 Insight를 제공합니다. Grad-CAM은 이것의 Generalization입니다.
 CAM은 또한 Weakly-Supervised Learning에 대해서도 소개했는데, 본 세미나에서는 Weakly와 Partially Supervised Learning에 대해서도 소개할 예정입니다.
@@ -98,10 +98,10 @@ Weakly-Supervised Learning은 어떠한 Task의 Dataset이 주어지지 않은 �
     
     <item>
       <title>Deep Image Prior</title>
-      <link>/seminar/post/new3/</link>
+      <link>https://mvpwiki.github.io/seminar/post/new3/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/new3/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/new3/</guid>
       <description>발표자: 이용주  
 딥 컨볼루션 네트워크는 Image Generation과 Image Restoration 기법에도 널리 사용되고 있습니다. 하지만 Image Generation과 Restoration을 위한 네트워크는 학습을 필요로 하며 이는 많은 양의 example image들이 필요합니다.
 이 논문은 위의 기존 방식의 네트워크들을 학습하는 것과 다르게 Generator 네트워크 구조가 low-level image statistics로도 prior 정보를 얻기 충분하다는 것을 보여줍니다. 또한 무작위로 초기화된 Neural Network로도 Denoising, Super Resolution, Inpainting에 훌륭한 결과를 얻을 수 있는 것을 보여줍니다. 이에 더 나아가 같은 Prior 정보를 이용하여 Invert Deep Neural Representation과 Flash와 Flash-no 사진을 이용한 이미지의 복원에도 사용되는 것을 보입니다.</description>
@@ -109,10 +109,10 @@ Weakly-Supervised Learning은 어떠한 Task의 Dataset이 주어지지 않은 �
     
     <item>
       <title>Edge-Guided Single Depth Image Super Resolution</title>
-      <link>/seminar/post/new4/</link>
+      <link>https://mvpwiki.github.io/seminar/post/new4/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/new4/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/new4/</guid>
       <description>발표자: 이현성  
 최근 Depth Map은 물체와 배경을 인식 및 이해하기 위하여 많은 Application에 널리 사용되고 있습니다. 그러나 Depth 카메라(e.g. Microsoft Kinect, 3D-ToF Cameras)에서 제공되는 Depth Map은 그 품질과 해상도가 제한되므로 Depth Map Super Resolution이 필요하게 됩니다.
 이번 세미나에서는 MRF(Markov Random Field) 모델 기반의 Single Depth Image Super Resolution 논문 중 하나인 Edge-Guided Single Depth Image Super Resolution, IEEE Transactions on Image Processing, 2016을 리뷰하려 합니다. 이 논문에서는 MRF Optimization을 사용하여 기존처럼 Depth Value를 직접 추정하는 것이 아닌, 고해상도의 Depth Edge를 찾는 것에 초점을 맞추었습니다.</description>
@@ -120,10 +120,10 @@ Weakly-Supervised Learning은 어떠한 Task의 Dataset이 주어지지 않은 �
     
     <item>
       <title>Image Captioning with Semantic Attention</title>
-      <link>/seminar/post/new1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/new1/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/new1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/new1/</guid>
       <description>발표자: 이형민  
 이번 세미나에서는 Quanzeng You의 CVPR 논문인 [Image Captioning with Semantic Attention]에 대한 리뷰를 하려고 합니다. Image Captioning은 인공지능 학계의 거대한 두 흐름인 ‘Computer Vision(컴퓨터 비전)’과 ‘Natural Language Processing(자연어 처리)’를 연결하는, 매우 중요한 의의를 갖는 연구 분야입니다.
 Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom-Up Approach’로 구분됩니다. Top-Down Approach에서는 이미지를 통째로 시스템에 통과 시켜서 얻은 ‘요점’을 언어로 변환하는 반면 Bottom-Up Approach에서는 이미지의 다양한 부분들로부터 단어들을 도출해내고, 이를 결합하여 문장을 얻어냅니다.</description>
@@ -131,10 +131,10 @@ Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom
     
     <item>
       <title>Unified, Real-Time Object Detection (YOLO v1)</title>
-      <link>/seminar/post/new2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/new2/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/new2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/new2/</guid>
       <description>발표자: 조명아  
 인간은 이미지를 한 번 보고도 빠르고 정확하게 그 안에 있는 물체들을 파악합니다. 하지만 Object Detection 분야에서 좋은 성능을 보이고 있는 DPM(Deformable Parts Model), R-CNN 은 Sliding Window로 반복 처리를 수행하거나 Classification을 따로 Post-processing하는 등 분리된 네트워크입니다. 따라서 인간의 Visual System과는 달리 처리 과정이 복잡하고 최적화하기에 어려움이 있으며 속도가 느립니다.
 YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체가 어디에 위치하는지 빠르게 예측합니다. YOLO는 Object Detection 문제를 Single Regression 문제로 재정의하여 물체의 Bounding Box와 Class를 동시에 예측합니다.</description>
@@ -142,10 +142,10 @@ YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체�
     
     <item>
       <title>Attention Mechanism</title>
-      <link>/seminar/post/son2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/son2/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/son2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/son2/</guid>
       <description>발표자: 손한빈 [발표 자료]
 본 세미나에서는 Attention Model을 소개할 예정입니다.
 Attention Mechanism은 2013-2014년경 처음 제안되었고, 2015년에 가장 핫했던 알고리즘 중 하나입니다. 맨 처음 제안은 사람의 시각적 Focusing에 기반한 Visual Attention Model이었으나 당시에는 딥러닝이 없었고, 그 이후 RNN과 함께 Machine Translation (기계 번역) 분야에서 부활했습니다. 지금도 Language 및 Text, Speech 분야 등 RNN을 주력으로 사용하는 분야에서는 Attention을 거의 Default로서 사용하고 있습니다. Image Captioning과 Visual Question Answering 등 Vision의 문제에도 최근에 엮어올 수 있으며, VQA 대회에서는 상위권 대다수의 알고리즘이 Attention을 기본으로 사용하는 등 많이 사용되고 있습니다.</description>
@@ -153,10 +153,10 @@ Attention Mechanism은 2013-2014년경 처음 제안되었고, 2015년에 가장
     
     <item>
       <title>Mask R-CNN</title>
-      <link>/seminar/post/cty2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/cty2/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/cty2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/cty2/</guid>
       <description>발표자: 정태영 [발표 자료]
 Object detection은 Computer Vision 분야에서 줄곧 관심있게 연구되고 있는 분야입니다. 그리고 최근 이 분야에서 가장 주목받고 있는 논문이 Kaiming He의 Mask R-CNN (ICCV 2017 Best Paper Award)입니다.
 Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 웃돌 뿐만 아니라, Object detection과 Instance Segmentation을 하나로 통합했다는 점에서 멋진 논문입니다.
@@ -165,10 +165,10 @@ Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 �
     
     <item>
       <title>신입생 Orientation 세미나 3</title>
-      <link>/seminar/post/teohugo/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teohugo/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teohugo/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teohugo/</guid>
       <description>Web without Web Programming 일시: 2017년 11월 15일 16시 발표자: 김태오 다음 프로그램들을 미리 설치하시고, 노트북을 지참해 주시기 바랍니다.
  Git https://git-scm.com/downloads
  Anaconda https://www.anaconda.com/download/
@@ -182,10 +182,10 @@ Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 �
     
     <item>
       <title>신입생 Orientation 세미나 4</title>
-      <link>/seminar/post/teolab/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teolab/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teolab/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teolab/</guid>
       <description>Research and Survey 세미나 일시: 2017년 11월 15일 17시 발표자: 김태오 본 세미나에서는 저널과 학회(컨퍼런스)의 대략적인 프로세스와 어떠한 저널/학회들을 관심 가지고 봐야할지에 대한 대략적인 소개를 진행합니다.
 또한 대략적인 논문검색, 탐색 및 Survey Tip에 대한 소개를 진행하며
 추가적으로 논문의 구조를 살펴보면서 논문 읽기에 대한 대략적인 방향성을 소개하고자 합니다.
@@ -195,10 +195,10 @@ Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 �
     
     <item>
       <title>Tex- Easier, Better, Faster, Stronger</title>
-      <link>/seminar/post/kj1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/kj1/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/kj1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/kj1/</guid>
       <description>발표자: 이경재 [발표 자료]
 [예제 문제 다운로드]
 [예제 정답 다운로드]
@@ -209,10 +209,10 @@ Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 �
     
     <item>
       <title>신입생 Orientation 세미나 1</title>
-      <link>/seminar/post/teocvt/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teocvt/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teocvt/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teocvt/</guid>
       <description>Computer Vision Topics 세미나 일시: 2017년 11월 8일 16시 발표자: 김태오 [발표 자료]
 사실상 저를 포함한 많은 분들이 겪고 있는 문제, 무슨 분야에 무엇을 연구하지? 입니다. 일단은 무슨 분야가 있는지는 알아야 한다라는 게 중요하겠다고 생각했습니다. 함범섭 교수님 수업 때 들었던 설명 위주의 분야에, CVPR과 ICCV등에서 주로 분류하는 분류법을 기반으로 저의 주관적 Bias를 조금 넣어서 53개 분야의 63개의 논문을 선정해 보았습니다.
 가능하면 최신 논문으로 선정해 보았고, 제가 잘 모르는 분야도 있기에 사실 100% 정확한 정답이라고 볼 수는 없지만.</description>
@@ -220,10 +220,10 @@ Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 �
     
     <item>
       <title>신입생 Orientation 세미나 2</title>
-      <link>/seminar/post/hmgit/</link>
+      <link>https://mvpwiki.github.io/seminar/post/hmgit/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/hmgit/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/hmgit/</guid>
       <description>Git using Commands 세미나 일시: 2017년 11월 8일 17시 발표자: 이형민 [발표 자료]
 컴퓨터로 큰 프로젝트를 진행하다 보면 갑자기 프로젝트가 삭제되거나 손실되는 경우가 있을 수 있습니다. 또는 프로젝트의 결과물이 폴더 안에 &amp;lsquo;Code1.py&amp;rsquo;, &amp;lsquo;Code2.py&amp;rsquo;, &amp;lsquo;Code3.py&amp;rsquo;&amp;hellip; 와 같이 버전별로 불필요할 정도로 쌓이게 되는 경우가 있을 수 있습니다. 이러한 문제들을 해결해 줄 수 있는 시스템이 바로 &amp;lsquo;버전 관리 시스템&amp;rsquo;입니다.
 버전 관리 시스템은 우리가 프로젝트의 버전을 효율적으로 관리할 수 있게 도와주고, 원한다면 현재 상태를 백업하여 언제든지 과거의 시점으로 돌아가는 것이 가능하게 합니다.</description>
@@ -231,10 +231,10 @@ Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 �
     
     <item>
       <title>Continuous Learning</title>
-      <link>/seminar/post/ju2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/ju2/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/ju2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/ju2/</guid>
       <description> 발표자: 이주성 [발표 자료]
 현재까지는 논문이 많이 없고 연구 초기단계라 생각되는 continuous learning에 대해서 소개하려고 합니다. 딥러닝으로 상당히 많은 것들이 가능하고 여러 가지 분야에 맞는 task를 연구가 활발히 진행중입니다. 하지만, 이를 동시에 하는 연구에 대해서 소개해드리려고 합니다. 즉 하나의 네트워크가 classification도 가능하고 게임도 가능하게끔 하는 방법입니다. 소개해드릴 논문은 다음과 같이 두 가지입니다.
  Overcoming catastrophic forgetting in neural networks(DeepMind, 2017.02) Continual Learning with Deep Generative Replay(SK T-Brain, 2017.05)  </description>
@@ -242,10 +242,10 @@ Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 �
     
     <item>
       <title>Facial Expression Recognition using CNN</title>
-      <link>/seminar/post/do2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/do2/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/do2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/do2/</guid>
       <description>발표자: 도진경 [발표 자료]
 CNN을 사용하여 감정 분류에 사용되는 눈썹, 입, 눈 등의 주요 부위별 특징을 추출하고, 이를 활용하여 감정 분류에 사용함으로써 높은 속도와 정확도를 가지는 real-time emotion recognition에 사용할 수 있습니다.
 이번 세미나에서는 감정 인식에 사용되는 데이터베이스와 훈련을 통해 추출된 특징에 대한 분석과 함께, CNN 모델 구조에 따른 인식 결과 비교 및 제가 tensorflow를 사용하여 시도해본 감정 인식 결과와 과정에 대해 공유하고자 합니다.
@@ -254,10 +254,10 @@ CNN을 사용하여 감정 분류에 사용되는 눈썹, 입, 눈 등의 주요
     
     <item>
       <title>Data Visualization and t-SNE</title>
-      <link>/seminar/post/lhm2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/lhm2/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/lhm2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/lhm2/</guid>
       <description>발표자: 이형민 [발표 자료]
 패턴을 인식하는 데 있어서 가장 기본적으로 알아야 하는 개념은 바로 Feature 공간입니다. 이미지 패턴 인식을 할 때에도 각 이미지를 Feature 공간 안에 배치한 후에 패턴을 인식하게 되는데, 불행히도 이미지는 고차원의 정보이기 때문에 우리가 실제로 느낄 수 있는 차원을 훨씬 뛰어넘는 공간에 배치 되어, 직관적인 패턴 분석이 많이 어렵습니다.
 그렇기 때문에 PCA처럼 고차원 데이터를 저차원의 공간으로 Projection 하여 Visualization 하기 위한 수많은 연구들이 진행되어 왔고, 실제로 논문에서 실험 결과를 Visualization 하여 이해를 돕거나, 패턴을 분석하기 전에 데이터들이 어떠한 모양으로 분포하고 있는지에 대한 정보를 얻어 분석 방향을 결정하기도 하였습니다.</description>
@@ -265,10 +265,10 @@ CNN을 사용하여 감정 분류에 사용되는 눈썹, 입, 눈 등의 주요
     
     <item>
       <title>K-means Clustering and GMM</title>
-      <link>/seminar/post/park2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/park2/</link>
       <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/park2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/park2/</guid>
       <description>발표자: 박성주 [발표 자료]
 이번 세미나에서 발표할 내용은 Data Clustering에 관한 알고리즘들 입니다. Data Clustering은 Dimension Reduction 및 Feature Learning등과 더불어 매우 중요한 Unsupervised Learning 분야로서, Supervised Learning을 위한 Pre-processing으로 많이 사용하고 Image에서는 Segmentation등에 사용되고 있습니다.
 또한 Clustering 알고리즘, 나아가서 Unsupervised Learning에 많이 쓰이는 여러 개념들을 이해하기 위한 Background로써 확률의 기본적인 개념과 머신러닝에서의 확률 분포 및 랜덤 변수, Maximum Likelihood 그리고 몇 가지 Probability Distribution을 살펴보려고 합니다.
@@ -277,60 +277,60 @@ CNN을 사용하여 감정 분류에 사용되는 눈썹, 입, 눈 등의 주요
     
     <item>
       <title>Conditional Random Fields</title>
-      <link>/seminar/post/jun1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/jun1/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/jun1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/jun1/</guid>
       <description>발표자: 이준협 [발표 자료]
 대표적인 Generative Model로써, 최근 GAN이 곽광받고 있어 세미나에서도 자주 다루고 있지만, 이번에는 Discriminative model에 대해서 생각해보고자 합니다. Discriminative model의 예는 Logistic regression, Linear discriminant analysis (LDA), Support Vector Machines (SVM), Boosting, Conditional Random Fields (CRF), Linear Regression, Neural Networks 등이 존재하는데, 그 중 CRF에 대해서 살펴보겠습니다. CRF는 방향성이 없는 Probability Modeling을 위한 Graph Model로서, 이를 Deep Learning에서 어떻게 이용되는지, 앞으로 어떻게 확장가능할지에 대해서 생각해보는 시간 갖을 예정입니다.</description>
     </item>
     
     <item>
       <title>Decoder Matters for Dense Prediction Problems</title>
-      <link>/seminar/post/kyu1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/kyu1/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/kyu1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/kyu1/</guid>
       <description>발표자: 이민규 [발표 자료]
 최근 딥러닝을 기반으로 한 pixel단위의 값을 추정해야 하는 dense prediction problem들을 해결하고 있는데 여기에 사용되는 decoder들의 형태에 따라서 다양한 문제들에서 evaluation 결과들에 영향을 미친다고 합니다. The Devil is in the Decoder 라는 논문을 중심으로 하여 decoder의 upsampling layer의 형태에 따른 여러가지 dense prediction problem들에 대한 실험 결과를 살펴볼 예정입니다.</description>
     </item>
     
     <item>
       <title>Neural Decoding with Deep Learning</title>
-      <link>/seminar/post/choi1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/choi1/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/choi1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/choi1/</guid>
       <description>발표자: 최재성 [발표 자료]
 fMRI 데이터와 딥러닝 알고리즘을 활용하여 사람이 본 시각정보를 직/간접적으로 재구성하여 시각화시키는 알고리즘에대한 소개를 진행합니다.</description>
     </item>
     
     <item>
       <title>Superresolution via Deep Learning</title>
-      <link>/seminar/post/son1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/son1/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/son1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/son1/</guid>
       <description>발표자: 손한빈 [발표 자료]
 과거부터 진행되어온 Super Resolution 연구의 역사를 간단하게 살펴보고 최근 Deep Learning 기술을 이용한 Super Resolution 논문에 대해 분석할 계획입니다. Deep Learning을 최초로 Super Resolution에 도입한 SRCNN과 그것을 응용하여 성능을 높인 VDSR, 그리고 SRCNN 기반의 몇개의 논문에 대해 정리하고자 합니다. 더 나아가 최근 GAN이 새롭게 떠오름에 따라 PSNR 성능 평가 방식에서 벗어나 인간의 인지적 관점에서의 성능에 초점을 맞추는 연구에 대해 살펴볼 예정입니다.</description>
     </item>
     
     <item>
       <title>Colorization</title>
-      <link>/seminar/post/hwang1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/hwang1/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/hwang1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/hwang1/</guid>
       <description>발표자: 황상원 [발표 자료]
 흑백 영상에 색을 입히려는 시도는 과거에도 많았습니다. 하지만 CNN 의 혁명적인 발전과 더불어 ImageNet과 같은 방대한 Database 덕분에 현재 Colorization 연구는 상당히 진전된 상황입니다. 이번 세미나에서는 Colorization의 문제를 과거서 부터 현재까지 어떠한 방법으로 해결하려고 했으며, 현재는 어떠한 아이디어를 사용하는지 &amp;lsquo;간략하게&amp;rsquo; 살펴볼 예정입니다. 특히 Main으로 소개할 [ECCV 2016] &amp;lsquo;Colorful Image Colorization&amp;rsquo; 논문에서는 Self-Supervised Representation Learning, Loss function 위주로 살펴보고 Colorization 을 활용하여 Computer Vision이나, Machine Learning 에서 어떻게 활용될 수 있는지 까지 살펴볼 예정입니다.</description>
     </item>
     
     <item>
       <title>GANs for Computer Vision</title>
-      <link>/seminar/post/teo3/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teo3/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teo3/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teo3/</guid>
       <description>발표자: 김태오 [발표 자료]
 지난번에 GAN 세미나를 한 적이 있는데요, GAN을 어디에 쓰지? 라는 게 사실 가장 큰 의문이었을 겁니다. 그래서 올해 나온 논문들로만, GAN을 Image Processing, Computer Vision등에 적용한 사례를 소개하고자 합니다. 처음 들으시는 분들을 위해서 GAN에 대해서 다시 한번 쉽게 설명하는 부분도 추가했습니다. 이형민 연구원이 정리해 준 &amp;ldquo;MNIST를 GAN으로 50줄 내로 Tensorflow로 구현하기&amp;rdquo; 코드도 소개합니다. 다음 논문들에 대해서 어떻게 GAN을 적용했는지 소개하도록 하겠습니다.
 Image to Image Translation</description>
@@ -338,30 +338,30 @@ Image to Image Translation</description>
     
     <item>
       <title>Object Detection</title>
-      <link>/seminar/post/ju1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/ju1/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/ju1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/ju1/</guid>
       <description>발표자: 이주성 [발표 자료]
 Deep Learning으로 Object Detecion의 개요를 설명하려고 합니다. Object Detection은 상당히 연구가 많이 진행되어 있고 많은 분들이 아실것이라 생각합니다. Classification과 더불어 Detection 구조들을 다른 분야에서 기본 구조로 가져가는 경우가 많기 때문에, 이러한 Detection 구조들을 통하여 다른 연구에 도움이 되길 희망하면서, Deep Learning이 핫해진 후, 발전된 전체적인 흐름과 함께 학습 및 사용 을 할 때의 과정과 핵심 부분을 설명 드리려고 합니다. 현재 다루려고 하는 알고리즘들은 R-CNN, SPPNet, Fast-R-CNN, Faster-R-CNN, YOLO, SSD등입니다.</description>
     </item>
     
     <item>
       <title>Reinforcement Learning</title>
-      <link>/seminar/post/cty1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/cty1/</link>
       <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/cty1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/cty1/</guid>
       <description>발표자: 정태영 [발표 자료]
 Reinforcement Learning 은 우리가 일반적으로 자주 사용하는 Training DB, Test DB 등을 나누어 훈련시키는 Supervised Learning 과는 다른 방식의 Machine Learning 방법입니다. 별도의 Test DB가 존재하지 않고, 적절히 설계된 모델 안에서 컴퓨터 스스로 여러번의 시행을 거치고, 적절한 보상을 얻는 과정을 반복하여 컴퓨터를 학습시키는 방법입니다. 이러한 Reinforcement Learning의 다양한 기법 중 Q-learning이라는 것이 Reinforcement Learning을 이해하는 데 핵심이 되는 알고리즘이고 이 Q-learning이 무엇이고 어떻게 컴퓨터를 학습시키는 지 전반적인 얼개에 대하여 알아보겠습니다.</description>
     </item>
     
     <item>
       <title>Image Captioning</title>
-      <link>/seminar/post/do1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/do1/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/do1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/do1/</guid>
       <description>발표자: 도진경 [발표 자료]
 기존의 CNN만 사용하는 구조에서는 Classification에서 단순한 &amp;ldquo;단어&amp;rdquo;만을 뱉어내는 수준이었다면, time-series 기반의 RNN 구조를 결합하여 문장을 생성하게 함으로써 Image Captioning, Visual Questioning와 같은 분야에 응용할 수 있습니다.
 CNN과 RNN이 결합된 구조의 Image Captioning에 대한 전반적인 소개와 함께, 특정 영역에 focus를 맞추도록 제안된 Attention Mechanism에 대하여 설명하겠습니다.</description>
@@ -369,10 +369,10 @@ CNN과 RNN이 결합된 구조의 Image Captioning에 대한 전반적인 소개
     
     <item>
       <title>Optical Flow</title>
-      <link>/seminar/post/park1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/park1/</link>
       <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/park1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/park1/</guid>
       <description>발표자: 박성주 [발표 자료1] [발표 자료2]
 FlowNet이라는 딥러닝 모델을 소개하려 합니다. FlowNet: Learning Optical Flow with Convolutional Networks 는 딥러닝의 CNN모델을 이용하여 optical flow를 학습시키고 prediction하는 것이 목적입니다.
 하지만 최신 handicraft algorithm에 비해 성능이 현저히 떨어지는 문제가 있어, 이것을 보완하기 위한 모델로써 FlowNet 2.0이 나오게 됩니다. 따라서 기존 FlowNet에 대해 살펴보고, FlowNet 2.0을 소개하는 순으로 진행할 예정입니다.</description>
@@ -380,20 +380,20 @@ FlowNet이라는 딥러닝 모델을 소개하려 합니다. FlowNet: Learning O
     
     <item>
       <title>Deep Learning Trend</title>
-      <link>/seminar/post/teo1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teo1/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teo1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teo1/</guid>
       <description>발표자: 김태오 [발표 자료]
 Deep Learning의 아주 간단한 요약과 Trend와 Survey 방법에 대해서 간단히 설명을 할 예정입니다. 그리고 cs231n의 2017년 강의에서 중요하게 다루었던 내용에 대한 부분도 언급하도록 하겠습니다.</description>
     </item>
     
     <item>
       <title>Generative Models (VAE/GAN)</title>
-      <link>/seminar/post/teo2/</link>
+      <link>https://mvpwiki.github.io/seminar/post/teo2/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teo2/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/teo2/</guid>
       <description>발표자: 김태오 [발표 자료 1] [발표 자료 2]
 Generative Models에 대한 소개를 진행하도록 하겠습니다. Generative Model은 GAN을 필두로 요즘 뜨고 있는 연구 분야인데요. 이것이 왜 뜨고 있으며 왜 중요한지. 필요한 수학적 개념은 무엇이고 구현은 어떻게 하는지. 미래는 어떻게 될 것인지에 대해서 요약하여 발표할 예정입니다.
 그중에서도 특히 Variational Autoencoder (VAE)와 Original GAN / DCGAN에 대해서 설명하도록 하겠습니다.</description>
@@ -401,10 +401,10 @@ Generative Models에 대한 소개를 진행하도록 하겠습니다. Generativ
     
     <item>
       <title>NLP for Computer Vision</title>
-      <link>/seminar/post/lhm1/</link>
+      <link>https://mvpwiki.github.io/seminar/post/lhm1/</link>
       <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/lhm1/</guid>
+      <guid>https://mvpwiki.github.io/seminar/post/lhm1/</guid>
       <description>발표자: 이형민 [발표 자료]
 AI/Machine Learning의 한 분야인 Natural Language Processing (NLP)에 대해서 발표를 할 예정입니다. NLP는 한국어로 &amp;ldquo;자연어 처리&amp;rdquo;로서 Computer Vision 및 Image Processing에서 &amp;ldquo;언어적 문맥&amp;rdquo; 이해와 &amp;ldquo;그 처리&amp;rdquo;는 상당히 중요한 역할을 차지합니다. Image/Video를 Language화하여 처리하는 다양한 알고리즘이 존재하며 CVPR/ICCV의 학회에서도 핫한 분야 중 하나입니다. 대표적인 분야는 Image/Video Captioning, Description 및 Visual Q&amp;amp;A 등이 있습니다.
 그 중에서도 핵심 Background가 되는 Word2Vec에 대해서 소개하고자 합니다. Word2Vec은 언어처리 뿐만 아니라 Generative Model과도 연관성이 높다는 것이 특징이며.</description>
