@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MVP Scholar</title>
+    <title>MVP Scholar Wiki</title>
     <link>https://mvpwiki.github.io/</link>
-    <description>Recent content on MVP Scholar</description>
+    <description>Recent content on MVP Scholar Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 08 Mar 2016 21:07:13 +0100</pubDate>
       
       <guid>https://mvpwiki.github.io/</guid>
-      <description>MVP Scholar는 연세대학교 영상인식연구실의 Wiki역할을 합니다.
+      <description>MVP Scholar Wiki는 연세대학교 영상인식연구실의 Wiki역할을 합니다.
 현재는 Tutorial, Seminar, Conference 및 Study 자료를 공유합니다.
 미래에는 모든 유용한 정보를 공유하는 Site가 될 예정입니다.
 누구나 편집할 수 있도록 편집 Tool을 배포할 예정입니다.

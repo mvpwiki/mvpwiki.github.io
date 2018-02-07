@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorials on MVP Scholar</title>
+    <title>Tutorials on MVP Scholar Wiki</title>
     <link>https://mvpwiki.github.io/tutorial/</link>
-    <description>Recent content in Tutorials on MVP Scholar</description>
+    <description>Recent content in Tutorials on MVP Scholar Wiki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
