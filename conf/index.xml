@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Confs on MVP Scholar</title>
+    <link>/conf/</link>
+    <description>Recent content in Confs on MVP Scholar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Wed, 09 Mar 2016 19:56:50 +0100</lastBuildDate>
+    
+	<atom:link href="/conf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference</title>
+      <link>/conf/</link>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      
+      <guid>/conf/</guid>
+      <description>Top Conferneces CVPR: IEEE Conference on Computer Vision and Pattern Recognition, IEEE Computer Society TPAMI 주관
+ICCV: International Conference on Computer Vision, IEEE Computer Society TPAMI 주관
+ECCV: European Conference on Computer Vision
+NIPS: Neural Information Processing Systems
+ICML: International Conference on Machine Learning
+ICLR: International Conference on Learning Representations
+   Title Deadline Location Date H-Index Website     ICLR 2018 Done Vancouver, Canada 2018.04.30 - https://iclr.</description>
+    </item>
+    
+  </channel>
+</rss>
