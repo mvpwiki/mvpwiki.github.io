@@ -18,13 +18,23 @@
   </url>
   
   <url>
+    <loc>https://mvpwiki.github.io/study/</loc>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mvpwiki.github.io/conf/</loc>
     <lastmod>2016-03-09T19:56:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mvpwiki.github.io/study/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+    <loc>https://mvpwiki.github.io/research/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mvpwiki.github.io/academic/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
   </url>
   
   <url>
@@ -183,6 +193,12 @@
   </url>
   
   <url>
+    <loc>https://mvpwiki.github.io/academic/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mvpwiki.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -196,6 +212,12 @@
   <url>
     <loc>https://mvpwiki.github.io/</loc>
     <lastmod>2016-03-08T21:07:13+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mvpwiki.github.io/research/</loc>
+    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   

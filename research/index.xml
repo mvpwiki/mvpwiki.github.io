@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on MVP Scholar Wiki</title>
+    <link>https://mvpwiki.github.io/research/</link>
+    <description>Recent content in Researches on MVP Scholar Wiki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Wed, 09 Mar 2016 19:56:50 +0100</lastBuildDate>
+    
+	<atom:link href="https://mvpwiki.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://mvpwiki.github.io/research/</link>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      
+      <guid>https://mvpwiki.github.io/research/</guid>
+      <description>업데이트 예정
+ Computer Vision, Image Processing 및 Deep Learning 연구분야 정리 논문검색, Journal 및 Conference Information 수록 Survey 하는 법 유용한 링크 모음</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -51,6 +51,17 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
     </item>
     
     <item>
+      <title>Study</title>
+      <link>https://mvpwiki.github.io/study/</link>
+      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
+      
+      <guid>https://mvpwiki.github.io/study/</guid>
+      <description>업데이트 예정입니다.
+2018년 겨울방학 강화학습 스터디.
+2018년 딥러닝 책 스터디.</description>
+    </item>
+    
+    <item>
       <title>Conference</title>
       <link>https://mvpwiki.github.io/conf/</link>
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
@@ -66,14 +77,23 @@ ICLR: International Conference on Learning Representations
     </item>
     
     <item>
-      <title>Study</title>
-      <link>https://mvpwiki.github.io/study/</link>
-      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
+      <title>Research</title>
+      <link>https://mvpwiki.github.io/research/</link>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
-      <guid>https://mvpwiki.github.io/study/</guid>
-      <description>업데이트 예정입니다.
-2018년 겨울방학 강화학습 스터디.
-2018년 딥러닝 책 스터디.</description>
+      <guid>https://mvpwiki.github.io/research/</guid>
+      <description>업데이트 예정
+ Computer Vision, Image Processing 및 Deep Learning 연구분야 정리 논문검색, Journal 및 Conference Information 수록 Survey 하는 법 유용한 링크 모음</description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://mvpwiki.github.io/academic/</link>
+      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
+      
+      <guid>https://mvpwiki.github.io/academic/</guid>
+      <description>업데이트 예정
+ 학사 및 졸업 요건 수강신청 메뉴얼</description>
     </item>
     
     <item>
