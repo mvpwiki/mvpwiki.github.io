@@ -30,7 +30,7 @@
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mvpwiki.github.io/seminar/post/woojin18_1/</guid>
-      <description>발표자: 김우진 발표 일자: 2018년 2월 9일 
+      <description>발표자: 김우진 발표 일자: 2018년 2월 9일 공D403 
 Paper 1: UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss Paper 2: FlowNet: Learning Optical Flow with Convolutional Networks 
 [발표 자료 업데이트 예정]
 Optical Flow 란 연속적인 두장의 이미지가 주어졌을 때, Feature Matching을 통한 물체의 움직임을 계산하는 알고리즘 입니다.
@@ -44,23 +44,13 @@ Unflow 는 FlowNet의 한계점을 보완할 뿐만 아니라 unsupervised Learn
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mvpwiki.github.io/seminar/post/hwang18_1/</guid>
-      <description>발표자: 황상원 [발표 자료]
+      <description>발표자: 황상원 발표 일자: 2018년 1월 19일 공D403 
+Paper 1: Deep Image Homography Estimation 
+[발표 자료]
 Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어졌을 때 이미들 사이의 변환 관계 식을 의미합니다.
 본 세미나에서는 Homography의 개념을 이해하고, Feature Descriptor를 이용한 Traditional Homography Estimator와 비교적 간단한 Deep Network 구조를 사용한 HomographyNet과의 성능 비교를 통해 딥러닝의 위대함을 느껴보는 것이 목표입니다.
 따라서 발표 진행은 다음과 같습니다.
- Homography가 어떤것이고, 어디에 쓰이는지. Feature Descriptor를 이용한 Traditional Homography Estimator는 어떤 것인지. Deep Network 구조를 통해 Homography 문제를 어떻게 해결하려고 했는지.</description>
-    </item>
-    
-    <item>
-      <title>Class Activation Map and Weakly Supervised Learning</title>
-      <link>https://mvpwiki.github.io/seminar/post/teo18_1/</link>
-      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mvpwiki.github.io/seminar/post/teo18_1/</guid>
-      <description>발표자: 김태오 [발표 자료]
-해석 가능한 Deep Network 또는 Deep Network Visualization등에 대한 연구가 진행되어 왔습니다. 이번에 소개드릴 CAM (Class Activation Map)은 이것에 대한 간단한 Insight를 제공합니다. Grad-CAM은 이것의 Generalization입니다.
-CAM은 또한 Weakly-Supervised Learning에 대해서도 소개했는데, 본 세미나에서는 Weakly와 Partially Supervised Learning에 대해서도 소개할 예정입니다.
-Weakly-Supervised Learning은 어떠한 Task의 Dataset이 주어지지 않은 경우, 그것보다 쉬운 Task의 Dataset으로만 가지고 문제를 해결하는 방법입니다. 예를 들면, CAM에서는 Image Classification Dataset을 이용해서 Object Detection을 준수한 수준으로 수행합니다.</description>
+ Homography가 어떤것이고, 어디에 쓰이는지. Feature Descriptor를 이용한 Traditional Homography Estimator는 어떤 것인지.</description>
     </item>
     
     <item>
@@ -105,6 +95,18 @@ Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom
       <description>발표자: 조명아  
 인간은 이미지를 한 번 보고도 빠르고 정확하게 그 안에 있는 물체들을 파악합니다. 하지만 Object Detection 분야에서 좋은 성능을 보이고 있는 DPM(Deformable Parts Model), R-CNN 은 Sliding Window로 반복 처리를 수행하거나 Classification을 따로 Post-processing하는 등 분리된 네트워크입니다. 따라서 인간의 Visual System과는 달리 처리 과정이 복잡하고 최적화하기에 어려움이 있으며 속도가 느립니다.
 YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체가 어디에 위치하는지 빠르게 예측합니다. YOLO는 Object Detection 문제를 Single Regression 문제로 재정의하여 물체의 Bounding Box와 Class를 동시에 예측합니다.</description>
+    </item>
+    
+    <item>
+      <title>Class Activation Map and Weakly Supervised Learning</title>
+      <link>https://mvpwiki.github.io/seminar/post/teo18_1/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvpwiki.github.io/seminar/post/teo18_1/</guid>
+      <description>발표자: 김태오 발표 일자: 2018년 1월 5일 공D403 
+Paper 1: Learning Deep Features for Discriminative Localization Paper 2: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization Paper 3: YOLO9000: Better, Faster, Stronger Paper 4: Learning to Segment Every Thing 
+[발표 자료]
+해석 가능한 Deep Network 또는 Deep Network Visualization등에 대한 연구가 진행되어 왔습니다. 이번에 소개드릴 CAM (Class Activation Map)은 이것에 대한 간단한 Insight를 제공합니다. Grad-CAM은 이것의 Generalization입니다.</description>
     </item>
     
     <item>
