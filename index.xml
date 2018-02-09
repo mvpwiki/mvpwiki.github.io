@@ -106,7 +106,7 @@ ICLR: International Conference on Learning Representations
       <guid>https://mvpwiki.github.io/seminar/post/woojin18_1/</guid>
       <description>발표자: 김우진 발표 일자: 2018년 2월 9일 공D403 
 Paper 1: UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss Paper 2: FlowNet: Learning Optical Flow with Convolutional Networks 
-[발표 자료 업데이트 예정]
+[발표 자료]
 Optical Flow 란 연속적인 두장의 이미지가 주어졌을 때, Feature Matching을 통한 물체의 움직임을 계산하는 알고리즘 입니다.
 Optical Flow는 동적 객체 검출에 관한 중요한 기술로서, 현재 Deep Learning을 이용하여 많은 연구가 진행되고 있습니다.
 Unflow 는 FlowNet의 한계점을 보완할 뿐만 아니라 unsupervised Learning을 통해 Optical Flow 문제를 해결합니다.</description>
