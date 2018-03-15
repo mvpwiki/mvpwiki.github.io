@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+  
+  
+  
+  
+   <html class="no-js"> 
+
+  <head lang="en-us">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=10" />
+    <title>GAN with Mathematics - MVP Scholar Wiki</title>
+    <meta name="generator" content="Hugo 0.29" />
+
+    
+    <meta name="description" content="A material design theme for documentations.">
+    
+    <link rel="canonical" href="https://mvpwiki.github.io/seminar/post/hyeongmin18_1/">
+    
+    <meta name="author" content="Digitalcraftsman">
+    
+
+    <meta property="og:url" content="https://mvpwiki.github.io/seminar/post/hyeongmin18_1/">
+    <meta property="og:title" content="MVP Scholar Wiki">
+    <meta property="og:image" content="https://mvpwiki.github.io/images/logo.png">
+    <meta name="apple-mobile-web-app-title" content="MVP Scholar Wiki">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://mvpwiki.github.io/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="https://mvpwiki.github.io/images/favicon.ico">
+
+    <style>
+      @font-face {
+        font-family: 'Icon';
+        src: url('https://mvpwiki.github.io/fonts/icon.eot');
+        src: url('https://mvpwiki.github.io/fonts/icon.eot')
+               format('embedded-opentype'),
+             url('https://mvpwiki.github.io/fonts/icon.woff')
+               format('woff'),
+             url('https://mvpwiki.github.io/fonts/icon.ttf')
+               format('truetype'),
+             url('https://mvpwiki.github.io/fonts/icon.svg')
+               format('svg');
+        font-weight: normal;
+        font-style: normal;
+      }
+    </style>
+
+    <link rel="stylesheet" href="https://mvpwiki.github.io/stylesheets/application.css">
+    <link rel="stylesheet" href="https://mvpwiki.github.io/stylesheets/temporary.css">
+    <link rel="stylesheet" href="https://mvpwiki.github.io/stylesheets/palettes.css">
+    <link rel="stylesheet" href="https://mvpwiki.github.io/stylesheets/highlight/highlight.css">
+
+    
+    
+    
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu&#43;Mono">
+    <style>
+      body, input {
+        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+      }
+      pre, code {
+        font-family: 'Ubuntu Mono', 'Courier New', 'Courier', monospace;
+      }
+    </style>
+
+    
+    <script src="https://mvpwiki.github.io/javascripts/modernizr.js"></script>
+
+    
+
+  </head>
+  <body class="palette-primary-red palette-accent-teal">
+
+
+
+
+<div class="backdrop">
+	<div class="backdrop-paper"></div>
+</div>
+
+<input class="toggle" type="checkbox" id="toggle-drawer">
+<input class="toggle" type="checkbox" id="toggle-search">
+<label class="toggle-button overlay" for="toggle-drawer"></label>
+
+<header class="header">
+	<nav aria-label="Header">
+  <div class="bar default">
+    <div class="button button-menu" role="button" aria-label="Menu">
+      <label class="toggle-button icon icon-menu" for="toggle-drawer">
+        <span></span>
+      </label>
+    </div>
+    <div class="stretch">
+      <div class="title">
+        GAN with Mathematics
+      </div>
+    </div>
+
+    
+
+    
+    <div class="button button-github" role="button" aria-label="GitHub">
+      <a href="https://github.com/taeoh-kim" title="@taeoh-kim on GitHub" target="_blank" class="toggle-button icon icon-github"></a>
+    </div>
+    
+    
+        
+  </div>
+  <div class="bar search">
+    <div class="button button-close" role="button" aria-label="Close">
+      <label class="toggle-button icon icon-back" for="toggle-search"></label>
+    </div>
+    <div class="stretch">
+      <div class="field">
+        <input class="query" type="text" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck>
+      </div>
+    </div>
+    <div class="button button-reset" role="button" aria-label="Search">
+      <button class="toggle-button icon icon-close" id="reset-search"></button>
+    </div>
+  </div>
+</nav>
+</header>
+
+<main class="main">
+	<div class="drawer">
+		<nav aria-label="Navigation">
+  <a href="https://mvpwiki.github.io/" class="project">
+    <div class="banner">
+      
+        <div class="logo">
+          <img src="https://mvpwiki.github.io/images/logo.png">
+        </div>
+      
+      <div class="name">
+        <strong>MVP Scholar Wiki <span class="version">2018.03.14</span></strong>
+        
+      </div>
+    </div>
+  </a>
+
+  <div class="scrollable">
+    <div class="wrapper">
+      
+
+      <div class="toc">
+        
+        <ul>
+          
+
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Introduction" href="https://mvpwiki.github.io/">
+	
+	Introduction
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Tutorial" href="https://mvpwiki.github.io/tutorial/">
+	
+	Tutorial
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Seminar" href="https://mvpwiki.github.io/seminar/">
+	
+	Seminar
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Study" href="https://mvpwiki.github.io/study/">
+	
+	Study
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Conference" href="https://mvpwiki.github.io/conf/">
+	
+	Conference
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Research" href="https://mvpwiki.github.io/research/">
+	
+	Research
+</a>
+
+
+
+  
+</li>
+
+
+
+<li>
+  
+    
+
+
+
+<a  title="Academic" href="https://mvpwiki.github.io/academic/">
+	
+	Academic
+</a>
+
+
+
+  
+</li>
+
+
+        </ul>
+        
+
+        
+        <hr>
+        <span class="section">The author</span>
+        
+        <ul>
+          
+
+          
+          <li>
+            <a href="https://github.com/taeoh-kim" target="_blank" title="@taeoh-kim on GitHub">
+              @taeoh-kim on GitHub
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="mailto:kto@yonsei.ac.kr" title="Email of kto@yonsei.ac.kr">
+              Contact via email
+            </a>
+          </li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </div>
+</nav>
+
+	</div>
+
+	<article class="article">
+		<div class="wrapper">
+			<h1>GAN with Mathematics </h1>
+
+			
+
+<h2 id="발표자-이형민">발표자: 이형민</h2>
+
+<h3 id="발표-일자-2018년-3월-16일">발표 일자: 2018년 3월 16일</h3>
+
+<p><br>
+<br></p>
+
+<h3 id="paper-1-toward-principled-methods-for-training-gans-https-arxiv-org-abs-1701-04862">Paper 1: <a href="https://arxiv.org/abs/1701.04862">Toward Principled Methods for Training GANs</a></h3>
+
+<p><br>
+<br></p>
+
+<p>“Toward Principled Methods for Training GANs, ICLR 2017, 172회 인용”은 Ian Goodfellow의 GAN에 대해서 근본적인 문제점을 제기합니다.
+우리는 그냥 이미지를 잘 생성해 주니까 GAN을 사용하는데, 그 원리에 대해서 깊게 생각해 본 적은 없습니다.
+Generator와 Discriminator의 수렴에 대해서 관심을 가져본 적도 없죠.
+이에 대해서 Distance부터 시작해서 수학적으로 질문을 던지는 논문입니다. 결국엔 Data Distribution이 확률 분포로써
+어떻게 작용하는지에 대해서 살펴보고자 합니다.
+물론 이에 대한 Solution을 제공한 것은 아닙니다만. 이러한 문제 제기는 GAN의 History에서 아주 큰 흐름을 가져왔습니다</p>
+
+<ul>
+<li><p>GAN에 대한 흔한 오해</p></li>
+
+<li><p>Kullback Leibler Divergence와 Jensen Shannon Divergence</p></li>
+
+<li><p>GAN 알고리즘의 수학적 분석</p></li>
+
+<li><p>GAN을 Training하는 과정에서 발생하는 치명적인 문제점</p></li>
+
+<li><p>문제점을 해결하기 위한 시도들</p></li>
+
+<li><p>GAN 테크트리: 그래서 무슨 GAN을 사용할까</p></li>
+</ul>
+
+<p><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br></p>
+
+
+			<aside class="copyright" role="note">
+				
+				&copy; 2018 Released under the MIT license &ndash;
+				
+				Documentation built with
+				<a href="https://www.gohugo.io" target="_blank">Hugo</a>
+				using the
+				<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">Material</a> theme.
+			</aside>
+
+			<footer class="footer">
+				
+
+<nav class="pagination" aria-label="Footer">
+  <div class="previous">
+  
+      <a href="https://mvpwiki.github.io/academic/" title="Academic">
+        <span class="direction">
+          Previous
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              Academic
+            </div>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+
+  <div class="next">
+  
+      <a href="https://mvpwiki.github.io/seminar/post/teo18_2/" title="Variational Autoencoder as Regularization">
+        <span class="direction">
+          Next
+        </span>
+        <div class="page">
+          <div class="stretch">
+            <div class="title">
+              Variational Autoencoder as Regularization
+            </div>
+          </div>
+          <div class="button button-next" role="button" aria-label="Next">
+            <i class="icon icon-forward"></i>
+          </div>
+        </div>
+      </a>
+  
+  </div>
+</nav>
+
+
+
+
+
+			</footer>
+		</div>
+	</article>
+
+	<div class="results" role="status" aria-live="polite">
+		<div class="scrollable">
+			<div class="wrapper">
+				<div class="meta"></div>
+				<div class="list"></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+    <script>
+    
+      var base_url = '';
+      var repo_id  = '';
+    
+    </script>
+
+    <script src="https://mvpwiki.github.io/javascripts/application.js"></script>
+    
+
+    <script>
+      /* Add headers to scrollspy */
+      var headers   = document.getElementsByTagName("h2");
+      var scrollspy = document.getElementById('scrollspy');
+
+      if(scrollspy) {
+        if(headers.length > 0) {
+          for(var i = 0; i < headers.length; i++) {
+            var li = document.createElement("li");
+            li.setAttribute("class", "anchor");
+
+            var a  = document.createElement("a");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", headers[i].innerHTML);
+            a.innerHTML = headers[i].innerHTML;
+
+            li.appendChild(a)
+            scrollspy.appendChild(li);
+          }
+        } else {
+          scrollspy.parentElement.removeChild(scrollspy)
+        }
+
+
+        /* Add permanent link next to the headers */
+        var headers = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+
+        for(var i = 0; i < headers.length; i++) {
+            var a = document.createElement("a");
+            a.setAttribute("class", "headerlink");
+            a.setAttribute("href", "#" + headers[i].id);
+            a.setAttribute("title", "Permanent link")
+            a.innerHTML = "#";
+            headers[i].appendChild(a);
+        }
+      }
+    </script>
+
+    
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+

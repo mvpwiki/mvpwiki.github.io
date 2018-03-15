@@ -24,7 +24,7 @@
 3. Conference 학회와 관련된 정보를 업데이트할 예정입니다.
 4. Study 연구실에서 진행한 Study와 그 자료를 공유할 예정입니다.
 Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirroring등을 할 수 있으며 차차 업데이트 할 계획을 가지고 있습니다.
-감사합니다. 2018년 2월 김태오 드림.</description>
+감사합니다.</description>
     </item>
     
     <item>
@@ -34,8 +34,7 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
       
       <guid>https://mvpwiki.github.io/tutorial/</guid>
       <description>http://yonseimvp.github.io/tutorial 에 있는 튜토리얼 자료를 가지치기 및 업데이트하여 이곳으로 가져올 계획입니다.
-변경 예정 사항으로는
- 이론적 Background 강화 Image Processing과 Computer Vision 강화 Tensorflow와 Pytorch를 원격 Server로 구동하도록 Linux 등 메뉴얼과 통합</description>
+업데이트 예정일: 차후 학기 (신입생) 시작 전.</description>
     </item>
     
     <item>
@@ -47,7 +46,7 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
       <description>18년 1학기 정기 세미나 정기 세미나는 중요한 논문 또는 최신 알고리즘 및 연구 분야에 대해서 발표하는 자리입니다.
 2주 단위로 진행되며 (시험기간 제외), 최대 2명이 발표합니다.
 각 세미나에 대한 자세한 내용은 각 세미나별 링크를 참조하시기 바랍니다.
-   일정 발표자 주제     1&amp;frasl;5 금요일 김태오 Class Activation Map and Weakly-Supervised Learning   1&amp;frasl;19 금요일 황상원 Feature Descriptor and Deep Image Homography   2&amp;frasl;9 금요일 김우진 Unsupervised Learning of Optical Flow   3&amp;frasl;16 금요일 이형민 Abnormal Detection   3&amp;frasl;16 금요일 김태오 Variational Autoencoder (VAE) Tutorial   3&amp;frasl;23 금요일 박성주 TBA   3&amp;frasl;30 금요일 이용주 TBA   4&amp;frasl;27 금요일 도진경 TBA   5&amp;frasl;4 금요일 이현성 TBA   5&amp;frasl;11 금요일 조명아 TBA   5&amp;frasl;25 금요일 김우진 TBA    17년 2학기 정기 세미나    일정 발표자 주제     7월 7일 이형민 NLP for Computer Vision   7월 7일 김태오 Deep Learning Trend   7월 7일 김태오 Generative Models (VAE/GAN)   7월 21일 도진경 Image Captioning   7월 21일 박성주 Optical Flow   8월 4일 이주성 Object Detection   8월 4일 정태영 Reinforcement Learning   8월 18일 황상원 Colorization   8월 18일 김태오 GANs for Computer Vision   9월 7일 최재성 Neural Decoding with Deep Learning   9월 7일 손한빈 Superresolution via Deep Learning   9월 15일 이민규 Decoder Matters for Dense Prediction Problems   9월 15일 이준협 Conditional Random Fields   9월 29일 이형민 Data Visualization and t-SNE   9월 29일 박성주 K-means Clustering and GMM   11월 3일 도진경 Facial Expression Recognition using CNN   11월 3일 이주성 Continuous Learning   11월 10일 이경재 Tex- Easier, Better, Faster, Stronger   11월 24일 정태영 Mask R-CNN   11월 24일 손한빈 Attention Mechanism    신입생 세미나 신입생 세미나의 취지는 본인의 희망논문을 직접 선정하고 발표하는 것입니다.</description>
+   일정 발표자 주제     1&amp;frasl;5 금요일 김태오 Class Activation Map and Weakly-Supervised Learning   1&amp;frasl;19 금요일 황상원 Feature Descriptor and Deep Image Homography   2&amp;frasl;9 금요일 김우진 Unsupervised Learning of Optical Flow   3&amp;frasl;16 금요일 이형민 GAN with Mathematics   3&amp;frasl;16 금요일 김태오 Variational Autoencoder as Regularization   3&amp;frasl;23 금요일 박성주 MobileNet: Efficient CNNs   3&amp;frasl;30 금요일 이용주 TBA   4&amp;frasl;27 금요일 도진경 TBA   5&amp;frasl;4 금요일 이현성 TBA   5&amp;frasl;11 금요일 조명아 TBA   5&amp;frasl;25 금요일 김우진 TBA    17년 2학기 정기 세미나    일정 발표자 주제     7월 7일 이형민 NLP for Computer Vision   7월 7일 김태오 Deep Learning Trend   7월 7일 김태오 Generative Models (VAE/GAN)   7월 21일 도진경 Image Captioning   7월 21일 박성주 Optical Flow   8월 4일 이주성 Object Detection   8월 4일 정태영 Reinforcement Learning   8월 18일 황상원 Colorization   8월 18일 김태오 GANs for Computer Vision   9월 7일 최재성 Neural Decoding with Deep Learning   9월 7일 손한빈 Superresolution via Deep Learning   9월 15일 이민규 Decoder Matters for Dense Prediction Problems   9월 15일 이준협 Conditional Random Fields   9월 29일 이형민 Data Visualization and t-SNE   9월 29일 박성주 K-means Clustering and GMM   11월 3일 도진경 Facial Expression Recognition using CNN   11월 3일 이주성 Continuous Learning   11월 10일 이경재 Tex- Easier, Better, Faster, Stronger   11월 24일 정태영 Mask R-CNN   11월 24일 손한빈 Attention Mechanism    신입생 세미나 신입생 세미나의 취지는 본인의 희망논문을 직접 선정하고 발표하는 것입니다.</description>
     </item>
     
     <item>
@@ -57,8 +56,7 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
       
       <guid>https://mvpwiki.github.io/study/</guid>
       <description>업데이트 예정입니다.
-2018년 겨울방학 강화학습 스터디.
-2018년 딥러닝 책 스터디.</description>
+2018년 겨울방학 강화학습 스터디.</description>
     </item>
     
     <item>
@@ -67,13 +65,7 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
       <guid>https://mvpwiki.github.io/conf/</guid>
-      <description>Top Conferneces CVPR: IEEE Conference on Computer Vision and Pattern Recognition, IEEE Computer Society TPAMI 주관
-ICCV: International Conference on Computer Vision, IEEE Computer Society TPAMI 주관
-ECCV: European Conference on Computer Vision
-NIPS: Neural Information Processing Systems
-ICML: International Conference on Machine Learning
-ICLR: International Conference on Learning Representations
-   Title Deadline Location Date H-Index Website     ICLR 2018 Done Vancouver, Canada 2018.04.30 - https://iclr.</description>
+      <description>Week Submission Deadline Acceptance Conference     18.03.01 ~ 18.03.15 ECCV (3.14)     18.03.16 ~ 18.03.31      18.04.01 ~ 18.04.15 ACMMM (4.8)     18.04.16 ~ 18.04.30 BMVC (4.30) ICIP (4.30) ICASSP (4.16) ICLR (4.30)   18.05.01 ~ 18.05.15  ICML (5.11)    18.05.16 ~ 18.05.31 NIPS (5.31)     18.</description>
     </item>
     
     <item>
@@ -96,6 +88,31 @@ ICLR: International Conference on Learning Representations
 졸업 요건 대부분 졸업에 관한 필요사항은 오리엔테이션 때 알려주거나 과 홈페이지 링크를 참고하면 되지만, 더 이해하기 쉽게 핵심을 정리해 두도록 하겠습니다.
 우선 졸업에 필요한 과정을 순차적으로 표현하면 다음과 같습니다.
  Course Work를 수료하였는가 종합시험 and 영어시험을 통과하였는가 연구지도를 수강하고 연구계획서를 제출하였는가 졸업에 필요한 논문 요건 을 충족하였는가 학위논문을 작성하고 예비심사, 본심사를 통과하였는가  하나씩 살펴보도록 하겠습니다.</description>
+    </item>
+    
+    <item>
+      <title>GAN with Mathematics</title>
+      <link>https://mvpwiki.github.io/seminar/post/hyeongmin18_1/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvpwiki.github.io/seminar/post/hyeongmin18_1/</guid>
+      <description>발표자: 이형민 발표 일자: 2018년 3월 16일 
+Paper 1: Toward Principled Methods for Training GANs 
+“Toward Principled Methods for Training GANs, ICLR 2017, 172회 인용”은 Ian Goodfellow의 GAN에 대해서 근본적인 문제점을 제기합니다. 우리는 그냥 이미지를 잘 생성해 주니까 GAN을 사용하는데, 그 원리에 대해서 깊게 생각해 본 적은 없습니다. Generator와 Discriminator의 수렴에 대해서 관심을 가져본 적도 없죠. 이에 대해서 Distance부터 시작해서 수학적으로 질문을 던지는 논문입니다. 결국엔 Data Distribution이 확률 분포로써 어떻게 작용하는지에 대해서 살펴보고자 합니다.</description>
+    </item>
+    
+    <item>
+      <title>Variational Autoencoder as Regularization</title>
+      <link>https://mvpwiki.github.io/seminar/post/teo18_2/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvpwiki.github.io/seminar/post/teo18_2/</guid>
+      <description>발표자: 김태오 발표 일자: 2018년 3월 16일 
+Paper 1: Auto-Encoding Variational Bayes 
+“Auto-Encoding Variational Bayes, ICLR 2014, 1763회 인용”는 “Adam Optimizer”로 유명한 Kingma의 알고리즘입니다. Data의 Feature를 스스로 학습하는 Feature Learning에서 한 획을 그은 알고리즘으로 보시면 되겠습니다. 이것이 왜 Generative Model이고, 확률과정에서 Variational Inference는 무엇이고 Bayes Theorem 은 어떻게 연관되는지에 대해서 수식으로 접근해서 풀어 볼 계획입니다.
+ Deep Learning Trend Review
+ Feature Learning이란 무엇인가: Manifold와 AutoEncoder
+ Bayes와 Maximum Likelihood</description>
     </item>
     
     <item>
