@@ -18,23 +18,18 @@
   </url>
   
   <url>
-    <loc>https://mvpwiki.github.io/study/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mvpwiki.github.io/conf/</loc>
-    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mvpwiki.github.io/research/</loc>
     <lastmod>2016-03-09T19:56:50+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://mvpwiki.github.io/academic/</loc>
     <lastmod>2016-03-09T19:56:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mvpwiki.github.io/seminar/post/sungju18_1/</loc>
+    <lastmod>2018-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -226,20 +221,12 @@
   </url>
   
   <url>
-    <loc>https://mvpwiki.github.io/research/</loc>
-    <lastmod>2016-03-09T19:56:50+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://mvpwiki.github.io/seminar/post/yongju18_1/</loc>
   </url>
   
   <url>
     <loc>https://mvpwiki.github.io/seminar/</loc>
     <lastmod>2016-03-09T00:11:02+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mvpwiki.github.io/study/</loc>
-    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   

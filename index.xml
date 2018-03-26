@@ -19,11 +19,11 @@
       
       <guid>https://mvpwiki.github.io/</guid>
       <description>연세대학교 영상인식연구실의 정보공유 Wiki입니다.
-1. Tutorial 신입생 또는 입문자를 위한 Tutorial로서 지속적으로 업데이트 예정입니다.
+1. Tutorial 기존의 신입생 Tutorial을 업데이트 예정. (향후 신입생 입학 시)
 2. Seminar 연구실 세미나 일정 및 자료를 열람할 수 있는 Archive입니다.
+용량 문제상 발표자료는 E-mail로 공유합니다. (과거 세미나 자료는 열람 가능)
 3. Conference 학회와 관련된 정보를 업데이트할 예정입니다.
-4. Study 연구실에서 진행한 Study와 그 자료를 공유할 예정입니다.
-Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirroring등을 할 수 있으며 차차 업데이트 할 계획을 가지고 있습니다.
+4. Academic 학사와 관련된 정보를 업데이트 예정입니다.
 감사합니다.</description>
     </item>
     
@@ -46,17 +46,7 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
       <description>18년 1학기 정기 세미나 정기 세미나는 중요한 논문 또는 최신 알고리즘 및 연구 분야에 대해서 발표하는 자리입니다.
 2주 단위로 진행되며 (시험기간 제외), 최대 2명이 발표합니다.
 각 세미나에 대한 자세한 내용은 각 세미나별 링크를 참조하시기 바랍니다.
-   일정 발표자 주제     1&amp;frasl;5 금요일 김태오 Class Activation Map and Weakly-Supervised Learning   1&amp;frasl;19 금요일 황상원 Feature Descriptor and Deep Image Homography   2&amp;frasl;9 금요일 김우진 Unsupervised Learning of Optical Flow   3&amp;frasl;16 금요일 이형민 GAN with Mathematics   3&amp;frasl;16 금요일 김태오 Variational Autoencoder as Regularization   3&amp;frasl;23 금요일 박성주 MobileNet: Efficient CNNs   3&amp;frasl;30 금요일 이용주 TBA   4&amp;frasl;27 금요일 도진경 TBA   5&amp;frasl;4 금요일 이현성 TBA   5&amp;frasl;11 금요일 조명아 TBA   5&amp;frasl;25 금요일 김우진 TBA    17년 2학기 정기 세미나    일정 발표자 주제     7월 7일 이형민 NLP for Computer Vision   7월 7일 김태오 Deep Learning Trend   7월 7일 김태오 Generative Models (VAE/GAN)   7월 21일 도진경 Image Captioning   7월 21일 박성주 Optical Flow   8월 4일 이주성 Object Detection   8월 4일 정태영 Reinforcement Learning   8월 18일 황상원 Colorization   8월 18일 김태오 GANs for Computer Vision   9월 7일 최재성 Neural Decoding with Deep Learning   9월 7일 손한빈 Superresolution via Deep Learning   9월 15일 이민규 Decoder Matters for Dense Prediction Problems   9월 15일 이준협 Conditional Random Fields   9월 29일 이형민 Data Visualization and t-SNE   9월 29일 박성주 K-means Clustering and GMM   11월 3일 도진경 Facial Expression Recognition using CNN   11월 3일 이주성 Continuous Learning   11월 10일 이경재 Tex- Easier, Better, Faster, Stronger   11월 24일 정태영 Mask R-CNN   11월 24일 손한빈 Attention Mechanism    신입생 세미나 신입생 세미나의 취지는 본인의 희망논문을 직접 선정하고 발표하는 것입니다.</description>
-    </item>
-    
-    <item>
-      <title>Study</title>
-      <link>https://mvpwiki.github.io/study/</link>
-      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
-      
-      <guid>https://mvpwiki.github.io/study/</guid>
-      <description>업데이트 예정입니다.
-2018년 겨울방학 강화학습 스터디.</description>
+   일정 발표자 주제     1&amp;frasl;5 금요일 김태오 Class Activation Map and Weakly-Supervised Learning   1&amp;frasl;19 금요일 황상원 Feature Descriptor and Deep Image Homography   2&amp;frasl;9 금요일 김우진 Unsupervised Learning of Optical Flow   3&amp;frasl;16 금요일 이형민 GAN with Mathematics   3&amp;frasl;16 금요일 김태오 Variational Autoencoder as Regularization   3&amp;frasl;23 금요일 박성주 MobileNet: Efficient CNNs   3&amp;frasl;30 금요일 이용주 Maintaining Natural Image Statistics using Contextual Loss   5&amp;frasl;4 금요일 도진경 TBA   5&amp;frasl;4 금요일 이현성 TBA   5&amp;frasl;11 금요일 조명아 TBA   5&amp;frasl;25 금요일 김우진 TBA    17년 2학기 정기 세미나    일정 발표자 주제     7월 7일 이형민 NLP for Computer Vision   7월 7일 김태오 Deep Learning Trend   7월 7일 김태오 Generative Models (VAE/GAN)   7월 21일 도진경 Image Captioning   7월 21일 박성주 Optical Flow   8월 4일 이주성 Object Detection   8월 4일 정태영 Reinforcement Learning   8월 18일 황상원 Colorization   8월 18일 김태오 GANs for Computer Vision   9월 7일 최재성 Neural Decoding with Deep Learning   9월 7일 손한빈 Superresolution via Deep Learning   9월 15일 이민규 Decoder Matters for Dense Prediction Problems   9월 15일 이준협 Conditional Random Fields   9월 29일 이형민 Data Visualization and t-SNE   9월 29일 박성주 K-means Clustering and GMM   11월 3일 도진경 Facial Expression Recognition using CNN   11월 3일 이주성 Continuous Learning   11월 10일 이경재 Tex- Easier, Better, Faster, Stronger   11월 24일 정태영 Mask R-CNN   11월 24일 손한빈 Attention Mechanism    신입생 세미나 신입생 세미나의 취지는 본인의 희망논문을 직접 선정하고 발표하는 것입니다.</description>
     </item>
     
     <item>
@@ -65,17 +55,7 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
       <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
       
       <guid>https://mvpwiki.github.io/conf/</guid>
-      <description>Week Submission Deadline Acceptance Conference     18.03.01 ~ 18.03.15 ECCV (3.14)     18.03.16 ~ 18.03.31      18.04.01 ~ 18.04.15 ACMMM (4.8)     18.04.16 ~ 18.04.30 BMVC (4.30) ICIP (4.30) ICASSP (4.16) ICLR (4.30)   18.05.01 ~ 18.05.15  ICML (5.11)    18.05.16 ~ 18.05.31 NIPS (5.31)     18.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://mvpwiki.github.io/research/</link>
-      <pubDate>Wed, 09 Mar 2016 19:56:50 +0100</pubDate>
-      
-      <guid>https://mvpwiki.github.io/research/</guid>
-      <description>업데이트 예정
- Computer Vision, Image Processing 및 Deep Learning 연구분야 정리 논문검색, Journal 및 Conference Information 수록 Survey 하는 법 유용한 링크 모음</description>
+      <description>Week Submission Deadline Acceptance Conference     18.03.16 ~ 18.03.31      18.04.01 ~ 18.04.15 ACMMM (4.8)     18.04.16 ~ 18.04.30 BMVC (4.30) ICIP (4.30) ICASSP (4.16) ICLR (4.30)   18.05.01 ~ 18.05.15  ICML (5.11)    18.05.16 ~ 18.05.31 NIPS (5.31)     18.06.01 ~ 18.06.15   CVPR (6.15)   18.</description>
     </item>
     
     <item>
@@ -95,6 +75,18 @@ Future Works 이외에도 유용한 링크 모음 또는 논문 Archive 및 Mirr
 4. 졸업에 필요한 논문 요건 충족
 5. 학위논문심사
 하나씩 살펴보도록 하겠습니다.</description>
+    </item>
+    
+    <item>
+      <title>MobileNet Efficient CNNs</title>
+      <link>https://mvpwiki.github.io/seminar/post/sungju18_1/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvpwiki.github.io/seminar/post/sungju18_1/</guid>
+      <description>발표자: 박성주 발표 일자: 2018년 3월 23일 
+Paper 1: MobileNet: Efficient Convolutional Neural Networks for Mobile Vision Applications Paper 2: Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation 
+최근 딥 러닝 알고리즘이 발달함에 따라 점점 딥러닝의 네트워크의 크기도 커지고 있습니다.
+따라서 점점 연산 량이 증가하고 있어, mobile에서 구동하기에는 부담이 생기기 때문에, 연산량을 줄이기 위한 많은 연구들이 진행되고 있습니다. 그 중 2017년에 구글에서 제안한 Mobilenet은 Depth-Wise separable convolution이라는 새로운 convolution 방법을 통해 정확성을 유지하면서, 연산량을 획기적으로 줄이게 됩니다.</description>
     </item>
     
     <item>
@@ -130,7 +122,6 @@ Paper 1: Auto-Encoding Variational Bayes
       <guid>https://mvpwiki.github.io/seminar/post/woojin18_1/</guid>
       <description>발표자: 김우진 발표 일자: 2018년 2월 9일 공D403 
 Paper 1: UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss Paper 2: FlowNet: Learning Optical Flow with Convolutional Networks 
-[발표 자료]
 Optical Flow 란 연속적인 두장의 이미지가 주어졌을 때, Feature Matching을 통한 물체의 움직임을 계산하는 알고리즘 입니다.
 Optical Flow는 동적 객체 검출에 관한 중요한 기술로서, 현재 Deep Learning을 이용하여 많은 연구가 진행되고 있습니다.
 Unflow 는 FlowNet의 한계점을 보완할 뿐만 아니라 unsupervised Learning을 통해 Optical Flow 문제를 해결합니다.</description>
@@ -144,7 +135,6 @@ Unflow 는 FlowNet의 한계점을 보완할 뿐만 아니라 unsupervised Learn
       <guid>https://mvpwiki.github.io/seminar/post/hwang18_1/</guid>
       <description>발표자: 황상원 발표 일자: 2018년 1월 19일 공D403 
 Paper 1: Deep Image Homography Estimation 
-[발표 자료]
 Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어졌을 때 이미들 사이의 변환 관계 식을 의미합니다.
 본 세미나에서는 Homography의 개념을 이해하고, Feature Descriptor를 이용한 Traditional Homography Estimator와 비교적 간단한 Deep Network 구조를 사용한 HomographyNet과의 성능 비교를 통해 딥러닝의 위대함을 느껴보는 것이 목표입니다.
 따라서 발표 진행은 다음과 같습니다.
@@ -203,8 +193,8 @@ YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체�
       <guid>https://mvpwiki.github.io/seminar/post/teo18_1/</guid>
       <description>발표자: 김태오 발표 일자: 2018년 1월 5일 공D403 
 Paper 1: Learning Deep Features for Discriminative Localization Paper 2: Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization Paper 3: YOLO9000: Better, Faster, Stronger Paper 4: Learning to Segment Every Thing 
-[발표 자료]
-해석 가능한 Deep Network 또는 Deep Network Visualization등에 대한 연구가 진행되어 왔습니다. 이번에 소개드릴 CAM (Class Activation Map)은 이것에 대한 간단한 Insight를 제공합니다. Grad-CAM은 이것의 Generalization입니다.</description>
+해석 가능한 Deep Network 또는 Deep Network Visualization등에 대한 연구가 진행되어 왔습니다. 이번에 소개드릴 CAM (Class Activation Map)은 이것에 대한 간단한 Insight를 제공합니다. Grad-CAM은 이것의 Generalization입니다.
+CAM은 또한 Weakly-Supervised Learning에 대해서도 소개했는데, 본 세미나에서는 Weakly와 Partially Supervised Learning에 대해서도 소개할 예정입니다.</description>
     </item>
     
     <item>
@@ -475,6 +465,19 @@ Generative Models에 대한 소개를 진행하도록 하겠습니다. Generativ
       <description>발표자: 이형민 [발표 자료]
 AI/Machine Learning의 한 분야인 Natural Language Processing (NLP)에 대해서 발표를 할 예정입니다. NLP는 한국어로 &amp;ldquo;자연어 처리&amp;rdquo;로서 Computer Vision 및 Image Processing에서 &amp;ldquo;언어적 문맥&amp;rdquo; 이해와 &amp;ldquo;그 처리&amp;rdquo;는 상당히 중요한 역할을 차지합니다. Image/Video를 Language화하여 처리하는 다양한 알고리즘이 존재하며 CVPR/ICCV의 학회에서도 핫한 분야 중 하나입니다. 대표적인 분야는 Image/Video Captioning, Description 및 Visual Q&amp;amp;A 등이 있습니다.
 그 중에서도 핵심 Background가 되는 Word2Vec에 대해서 소개하고자 합니다. Word2Vec은 언어처리 뿐만 아니라 Generative Model과도 연관성이 높다는 것이 특징이며.</description>
+    </item>
+    
+    <item>
+      <title>Maintaining Natural Image Statistics using Contextual Loss</title>
+      <link>https://mvpwiki.github.io/seminar/post/yongju18_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvpwiki.github.io/seminar/post/yongju18_1/</guid>
+      <description>발표자: 이용주 발표 일자: 2018년 3월 30일 
+Paper 1: The Contextual Loss for Image Transformation with Non-Aligned Data Paper 2: Learning to Maintain Natural Image Statistics 
+최근 이미지를 복원하거나 생성하는 방법으로 Convolutional Neural Network를 사용한 알고리즘이 강력하며 일반적으로 사용됩니다.
+그 중에서 GAN을 이용한 Photorealism한 이미지를 출력하는 시도를 많이 하고 있고 좋은 성능을 보이지만 완벽하지는 못합니다.
+이러한 기존의 CNN(GAN을 포함한)을 이용한 이미지 복원 및 생성 문제에 자연스러운 이미지 통계를 유지할 수 있다면 더욱 강력한 성능을 보일 것입니다.</description>
     </item>
     
   </channel>
