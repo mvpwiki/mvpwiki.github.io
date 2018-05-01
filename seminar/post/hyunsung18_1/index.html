@@ -282,26 +282,40 @@
 
 
 
-<h2 id="발표자-이용주">발표자: 이현성</h2>
+<h2 id="발표자-이현성">발표자: 이현성</h2>
 
-<h3 id="발표-일자-2018년-3월-30일">발표 일자: 2018년 5월 4일</h3>
-
-<p><br>
-<br></p>
-
-<h3 id="paper-1-the-contextual-loss-for-image-transformation-with-non-aligned-data-https-arxiv-org-abs-1803-02077v3">Paper 1: <a href="https://arxiv.org/abs/1803.02077v3">The Contextual Loss for Image Transformation with Non-Aligned Data</a></h3>
-
-<h3 id="paper-2-learning-to-maintain-natural-image-statistics-https-arxiv-org-abs-1803-04626v2">Paper 2: <a href="https://arxiv.org/abs/1803.04626v2">Learning to Maintain Natural Image Statistics</a></h3>
+<h3 id="발표-일자-2018년-5월-4일">발표 일자: 2018년 5월 4일</h3>
 
 <p><br>
 <br></p>
 
-<p>최근 이미지를 복원하거나 생성하는 방법으로 Convolutional Neural Network를 사용한 알고리즘이 강력하며 일반적으로 사용됩니다.</p>
+<h3 id="paper-1">Paper 1: <a href="https://arxiv.org/abs/1803.02077v3">ECO: Efficient Convolution Operators for Tracking</a></h3>
+
+<h3 id="paper-2">Paper 2: <a href="https://arxiv.org/abs/1803.04626v2">Learning Multi-domain Convolutional Neural Networks for Visual Tracking</a></h3>
+
+<p><br>
+<br></p>
+
+<p>Object tracking은 영상 내에 물체의 초기 위치만 주어진 상태에서 대상의 궤적을 추적하는 computer vision의 고전적인 problem입니다. 그중 visual object tracking(VOT)은 image sequence 내의 한가지 물체를 추적하는 문제로, 매우 제한된 훈련 샘플 집합으로부터 occlusion이나 deformation 등의 문제 대처가 가능한 일반화(generalize)된 대상의 외형 모양을 찾을 수 있어야 하는 어려움이 있습니다. VOT가 고전적인 problem인 만큼, 이번 세미나에서는 VOT의 문제를 과거부터 현재까지 어떠한 방식으로 풀어 왔는지에 크게 2가지 방법(Correlation Filter, Deep Learning)에 대해 survey 형식으로 진행하려 합니다.</p>
+
+<br>
+<p>1. Correlation Filter 기반 알고리즘 소개</p>
 
 <ul>
-<li>본 논문 및 Contextual Loss에 대한 소개</li>
-<li>Contextual Loss가 이미지 통계를 유지할 수 있는 지 KL Divergence와의 비교를 통한 검증</li>
-<li>Contextual Loss를 이용한 application 및 결과</li>
+  <li>Visual object tracking using adaptive correlation filters, CVPR 2010</li>
+  <li>A scale adaptive kernel correlation filter tracker with feature integration, ECCV 2014</li>
+  <li>Learning spatially regularized correlation filters for visual tracking, CVPR 2015</li>
+  <li>Beyond correlation filters: Learning continuous convolution operators for visual tracking, ECCV 2016</li>
+  <li>Eco: Efficient convolution operators for tracking, CVPR 2017</li>
+</ul>
+
+<br>
+<p>2. Correlation Filter 사용하지 않은 Deep Learning 기반 알고리즘 소개</p>
+
+<ul>
+  <li>Learning multi-domain convolutional neural networks for visual tracking, CVPR 2016</li>
+  <li>Fully-convolutional siamese networks for object tracking, ECCV 2016</li>
+  <li>End-to-end representation learning for correlation filter based tracking, CVPR 2017</li>
 </ul>
 
 <p><br>
