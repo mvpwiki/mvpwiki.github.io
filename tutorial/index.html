@@ -257,27 +257,32 @@
 
   				<h2><a name="prer"><a href="#back"><font color="black">Prerequisites: 필요한 소프트웨어</font></a></a></h2><br>
 
-  				<h4><a name="MATLAB"><a href="#back">MATLAB</a></a></h4>
+  				<h4><a name="MATLAB"><a href="#back">MATLAB (Local)</a></a></h4>
 
   				<p>MATRIX 연산 기반 수치 계산 Tool. Image Processing에 적합. 연세대학교에서는 MATLAB 정품을 무료로 제공. 설치는 <a target="_blank" href="img/MATLAB_simple.pdf">간단 설치 가이드</a>를 참고
   				, 문제 발생시에는 <a target="_blank" href="img/MATLAB_detail.pdf">정규 설치 가이드</a>를 참고.</p>
 
   				<br>
-  				<h4><a name="Anaconda"><a href="#back">Anaconda</a></a></h4>
+  				<h4><a name="Anaconda"><a href="#back">Anaconda (Local)</a></a></h4>
 
   				<p>Python Library Package로써, Numpy, Pylab, Pandas, Matplotlib 등 대부분의 핵심 Library를 지원. 다운로드는 <a href="https://www.continuum.io/downloads">Anaconda 홈페이지</a>에서 Python 3.6 기준 Windows 64비트 기준으로 받으면 된다.
   				설치 시에는 Default로 설정. Anaconda는 Visual Studio같은 개발 환경이 아니라 단순히 Source Code만 제공. 콘솔에서는 실행 가능.</p>
 
   				<br>
-  				<h4><a name="Jupyter"><a href="#back">Jupyter Notebook (IPython)</a></a></h4>
+  				<h4><a name="Jupyter"><a href="#back">Jupyter Notebook (Local)</a></a></h4>
 
   				<p>Python 개발 환경 툴(IDE)로써, Anaconda를 설치하면 자동으로 포함되어 있음. Jupyter Notebook은 Python을 MATLAB처럼 Interactive하게 실행시켜 주는 개발 환경(IDE)라고 생각하면 된다.
   				<a target="_blank" href="img/Jupyter.pdf">간단 사용법</a>을 참고.</p>
 
   				<br>
-  				<h4><a name="Pycharm"><a href="#back">Pycharm</a></a></h4>
+  				<h4><a name="Pycharm"><a href="#back">Pycharm (Local)</a></a></h4>
 
   				<p>Build와 Debugging을 통해서 Project 형식으로 관리할 수 있는 Python 개발 환경. 설치법은 <a href="https://www.jetbrains.com/pycharm/">홈페이지</a>에 들어간 뒤, <a target="_blank" href="img/Pycharm.pdf">설치 및 설정 방법</a>를 참고. </p>
+
+          <br>
+          <h4><a name="Pycharm"><a href="#back">Docker (Server)</a></a></h4>
+
+          <p>리눅스 컨테이너 기반 가상화 프로그램 <a href="https://github.com/deeplearningzerotoall/TensorFlow/blob/master/docker_user_guide.md">도커 설치 및 가이드</a></p>
 
   				<br><br><br><br><br><br>
 
@@ -300,15 +305,16 @@
 
 
 
-          <h2><a name="2"><font color=black>Track 2: Basic Python</font></a></h2>
+          <h2><a name="2"><font color=black>Track 2: Basic Python & Deep Learning from Scratch</font></a></h2>
           <ul>
-            <li>Anaconda 설치 필요</li>
-  					<li>Jupyter Notebook 사용 권장 (Pycharm 가능)</li>
+            <li>Anaconda 설치 필요, Jupyter Notebook 사용 권장 (Pycharm 가능)</li>
   					<li><a href="https://github.com/YonseiMVP/PythonDataScienceHandbook">소스 코드</a></li>
             <li><a href="https://wikidocs.net/book/1">더 기초가 필요할 경우</a></li>
+            <li>한빛미디어, 밑바닥부터 시작하는 딥러닝 책 필요</li>
   				</ul><br>
   				<p>Python 기초 및 기본 Library 학습</p>
-          <p>배우는 내용: Numpy, Matplotlib만 학습</p>
+          <p>배우는 내용: 웹북에서는 Numpy, Matplotlib만 학습</p>
+          <p>밑바닥부터 시작하는 딥러닝을 통해 객체지향 기반의 Python 코딩 연습</p>
   				<br>
 
 
@@ -316,7 +322,7 @@
           <h2><a name="3"><font color=black>Track 3: Deep Learning</font></a></h2>
           <ul>
   					<li><a href="https://www.deeplearning.ai/">메인 Website</a></li>
-            <li><a href="img/Andrew.pdf">가입 및 무료 수강 방법</a></li>
+            <li><a href="img/Andrew.pdf">가입 및 무료 수강 방법 (템플릿은 변경되었을 수 있으나 동일)</a></li>
   				</ul><br>
           <p>영어 강의, 수강하면서 한글로 요약 PPT 제작하여 발표, Youtube Version은 한글 자막 제공</p>
   				<p>배우는 내용 1: Logistic Regression, Gradient Descent, Neural Networks, Backpropagation</p>
@@ -328,17 +334,13 @@
 
 
 
-          <h2><a name="4"><font color=black>Track 4: Tensorflow and PyTorch</font></a></h2>
+          <h2><a name="4"><font color=black>Track 4: Tensorflow and PyTorch (Ver 2)</font></a></h2>
           <ul>
-            <li>Anaconda, Pycharm, Tensorflow, PyTorch 설치 필요</li>
-            <li>Pycharm 사용</li>
-            <li>반드시 Linux 원격 서버 SSH 기반 가상환경으로 코딩할 것. <a href="https://github.com/YonseiMVP/linux_manual">메뉴얼 링크</a></li>
-            <li><a href="http://hunkim.github.io/ml/">Tensorflow 강의 및 강의자료 Website</a></li>
-            <li><a href="https://github.com/hunkim/DeepLearningZeroToAll">Tensorflow 소스 코드</a></li>
-            <li><a href="https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m&disable_polymer=true">PyTorch 강의 및 강의자료 Website</a></li>
-            <li><a href="https://github.com/hunkim/PyTorchZeroToAll">PyTorch 소스 코드</a></li>
+            <li>Local 컴퓨터의 Pycharm (또는 Jupyter Notebook) + Server 컴퓨터의 Docker 기반으로 사용</li>
+            <li>메뉴얼 업로드 예정</li>
+            <li><a href="https://deeplearningzerotoall.github.io/season2/">강의 Website</a></li>
   				</ul><br>
-          <p>Python Deep Learning Library인 Tensorflow와 PyTorch를 Machine Learning 예제를 통해 학습</p>
+          <p>Python Deep Learning Library인 Tensorflow와 PyTorch를 강의와 예제를 통해 학습</p>
   				<br>
 
 
@@ -390,7 +392,7 @@
 
 
 <nav class="pagination" aria-label="Footer">
-  
+
 
 
 </nav>
